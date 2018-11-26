@@ -1,0 +1,43 @@
+// Variables + Mixins + Functions
+@import "styles/helpers/variables";
+
+// Always include variable 1st !
+@import "styles/helpers/mixins";
+
+// Vendors
+// Import jQuery lib, Bootstrap ... etc
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+// Themes
+// If we have themes, import specific styles here
+
+// Layout
+@import "styles/layout/common";
+@import "styles/layout/header";
+@import "styles/layout/main";
+@import "styles/layout/sidebar";
+@import "styles/layout/footer";
+
+// Components
+@import "styles/components/grid";
+@import "styles/components/nav";
+@import "styles/components/button";
+@import "styles/components/forms";
+@import "styles/components/tabs";
+@import "styles/components/misc";
+@import "styles/components/label";
+@import "styles/components/bar";
+@import "styles/components/radio";
+@import "styles/components/checkbox";
+@import "styles/components/panel";
+@import "styles/components/table";
+@import "styles/components/dialog";
+@import "styles/components/select";
+@import "styles/components/popup";
+@import "styles/components/pagination";
+@import "styles/components/listgroup";
+@import "styles/components/breadcrumb";
+@import "styles/components/thumbnail";
+
+// Page specific styles
