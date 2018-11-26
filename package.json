@@ -1,0 +1,11 @@
+{
+  "name": "scss-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nguyenhuutuananh/scss-structure.git",
+  "author": "Anh Nguyen <anhnguyen@gumiviet.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
